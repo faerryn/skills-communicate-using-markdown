@@ -12,3 +12,9 @@ fn main() {
   println!("Hello markdown")
 }
 ```
+
+## tODO
+
+- [ ] make money
+- [ ] get an A in Systems & Toolchains
+- [ ] buy the Mooon
